@@ -67,7 +67,6 @@ p a {
    font-size: 22px;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
@@ -295,6 +294,33 @@ section {
   border-color: #59a69f;
   color: white;
   opacity: 1;
+}
+
+.contact {
+  background: #8ec2be;
+  padding-bottom: 45px;
+  padding-top: 50px;
+}
+
+.contact h3 {
+  color: white;
+  font-size: 36px;
+  font-family: 'Montserrat';
+  margin-top: 0;
+  padding-top: 5px;
+}
+
+.contact p {
+  color: white;
+  font-family: 'Lato';
+  padding-top: 12px;
+}
+
+.contact h6 {
+  color: white;
+  font-size: 48px;
+  font-family: 'Montserrat';
+  margin-top: 0;
 }
 
 
